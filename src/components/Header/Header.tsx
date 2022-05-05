@@ -119,7 +119,7 @@ function Header({ themeBtn, changeTheme }: IProps) {
             <div className="profile__buttons-small">
               {/* Insert a real number plus country code  */}
               <a
-                href="https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!"
+                href="https://api.whatsapp.com/send?phone=50373606938&text=Hello, more information!"
                 target="_blank"
                 rel="noreferrer"
                 className="button button__small button__gray"
@@ -128,7 +128,7 @@ function Header({ themeBtn, changeTheme }: IProps) {
               </a>
               {/* Insert your brand name or profile */}
               <a
-                href="https://m.me/bedimcode"
+                href="https://m.me/josue.alexander.146"
                 target="_blank"
                 rel="noreferrer"
                 className="button button__small button__gray"
