@@ -1,6 +1,7 @@
 import STARDIU from '../../../assets/img/project-stardiu.png';
 import ANIME from '../../../assets/img/anime-list.jpeg';
 import MAPS from '../../../assets/img/maps.png';
+import CALENDAR from '../../../assets/img/calendar-app.png';
 
 export interface IProject {
   id?: number;
@@ -26,10 +27,17 @@ export const projects: Array<IProject> = [
     img: ANIME,
   },
   {
-    id: 2,
-    name: 'Maps',
+    id: 3,
+    name: 'Mapas',
     type: 'Web',
     url: 'https://r-maps.netlify.app/',
     img: MAPS,
+  },
+  {
+    id: 4,
+    name: 'Calendario',
+    type: 'Web',
+    url: 'https://r-calendar.herokuapp.com/',
+    img: CALENDAR,
   },
 ];
