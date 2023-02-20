@@ -14,11 +14,11 @@ export const fGroupOne: IGroup[] = [
   },
   {
     name: 'JavaScript',
-    level: 'Intermediate',
+    level: 'Advanced',
   },
   {
-    name: 'Redux',
-    level: 'Intermediate',
+    name: 'Alpine',
+    level: 'Advanced',
   },
 ];
 
@@ -29,48 +29,48 @@ export const fGroupTwo: IGroup[] = [
   },
   {
     name: 'Git',
-    level: 'Basic',
+    level: 'Intermediate',
   },
   {
     name: 'Bootstrap',
     level: 'Intermediate',
   },
-  {
-    name: 'TypeScript',
-    level: 'Intermediate',
-  },
+  // {
+  //   name: 'TypeScript',
+  //   level: 'Intermediate',
+  // },
 ];
 
 export const bGroupOne: IGroup[] = [
   {
+    name: 'Python',
+    level: 'Intermediate',
+  },
+  {
+    name: 'Django',
+    level: 'Intermediate',
+  },
+  {
     name: 'Node.js',
     level: 'Intermediate',
   },
-  {
-    name: 'Express.js',
-    level: 'Intermediate',
-  },
-  {
-    name: 'GraphQL',
-    level: 'Basic',
-  },
-  {
-    name: 'MongoDB',
-    level: 'Intermediate',
-  },
+  // {
+  //   name: 'Express.js',
+  //   level: 'Intermediate',
+  // },
+  // {
+  //   name: 'GraphQL',
+  //   level: 'Basic',
+  // },
+  // {
+  //   name: 'MongoDB',
+  //   level: 'Intermediate',
+  // },
 ];
 
 export const bGroupTwo: IGroup[] = [
   {
-    name: 'MySQL',
-    level: 'Intermediate',
-  },
-  {
-    name: 'PHP',
-    level: 'Basic',
-  },
-  {
-    name: 'Apollo GraphQL',
+    name: 'PosgreSQL',
     level: 'Basic',
   },
 ];
