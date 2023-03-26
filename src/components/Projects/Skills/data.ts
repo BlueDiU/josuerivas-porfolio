@@ -35,10 +35,10 @@ export const fGroupTwo: IGroup[] = [
     name: 'Bootstrap',
     level: 'Intermediate',
   },
-  // {
-  //   name: 'TypeScript',
-  //   level: 'Intermediate',
-  // },
+  {
+    name: 'TypeScript',
+    level: 'Intermediate',
+  },
 ];
 
 export const bGroupOne: IGroup[] = [

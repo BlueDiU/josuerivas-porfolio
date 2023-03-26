@@ -89,21 +89,25 @@ function Header({ themeBtn, changeTheme }: IProps) {
 
           <div className="profile__info grid">
             <div className="profile__info-group">
-              <h3 className="profile__info-number">0</h3>
+              <h3 className="profile__info-number">+1</h3>
               <p className="profile__info-description">
-                Years of <br /> work
+                Years of <br /> experience
               </p>
             </div>
             <div className="profile__info-group">
-              <h3 className="profile__info-number">+2</h3>
+              <h3 className="profile__info-number">
+                Full-Stack
+              </h3>
               <p className="profile__info-description">
-                Completed <br /> projects
+                Developer <br /> role
               </p>
             </div>
             <div className="profile__info-group">
-              <h3 className="profile__info-number">4 years</h3>
+              <h3 className="profile__info-number">
+                El Salvador
+              </h3>
               <p className="profile__info-description">
-                University <br /> studies
+                I am based <br /> in
               </p>
             </div>
           </div>
